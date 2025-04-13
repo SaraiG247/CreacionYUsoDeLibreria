@@ -4,6 +4,7 @@ Esta librería permite validar la estructura y autenticidad de claves CURP (Clav
 
 ## GeneradorCurp
 
-Su propósito es Generar una curp válida siguiendo las normas del RENAPO (Registro Nacional de Población) 
+Su propósito es generar una curp válida siguiendo las normas del RENAPO (Registro Nacional de Población) 
 
-Se toman los valores o parámetros necesarios para identificar un generador de Curp
+Se toman los valores o parámetros necesarios para identificar un generador de Curp:
+[Captura-de-pantalla-2025-04-13-163615.png](https://postimg.cc/8j4C6Nwf)
